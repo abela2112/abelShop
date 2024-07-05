@@ -11,7 +11,7 @@ import Layout from './layout'
 import axios from 'axios'
 
 function App() {
-  axios.defaults.baseURL='http://localhost:5000'
+  axios.defaults.baseURL='https://shopbackend-l514.onrender.com'
   return (
    <Routes>
     <Route path='/' element={<Layout/>}>
