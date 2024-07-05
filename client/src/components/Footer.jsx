@@ -77,7 +77,7 @@ const Footer = () => {
   return (
     <Container>
         <Left>
-            <Logo>LAMA.</Logo>
+              <Logo>Bela.</Logo>
             <Desc>
                There are many variation of passages of Lorem Ipsun available, but 
                the majority have suffered alteration in some form, by injected 
